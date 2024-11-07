@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\PosnetTest::testDoPaymentWithInstallments":8},"times":{"Tests\\PosnetTest::testRegisterVisaCardSuccessfully":0.003,"Tests\\PosnetTest::testDoPaymentWithSufficientLimit":0,"Tests\\PosnetTest::testDoPaymentWithInsufficientLimitThrowsException":0,"Tests\\PosnetTest::testDoPaymentWithInstallments":0}}

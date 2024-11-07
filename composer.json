@@ -1,0 +1,24 @@
+{
+    "name": "tomasvazquez/api-posnet",
+    "description": "Prueba técnica para Pilot Solutions",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "12.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "posnet\\src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomás Vazquez"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/psr7": "dev-master",
+        "slim/slim": "4.10"
+    }
+}
